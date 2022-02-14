@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #18181B;
+}
+
+.spotify:hover .fa-spotify,
+.spotify:hover .fa-play {
+  color: #1ed760;
+}
+
+.reload-button:hover .fa-sync {
+  color: #ffffff;
+}
